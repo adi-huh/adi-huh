@@ -5,8 +5,7 @@
 # 👋 Hi, I'm Aditya Rai  
 
 🎓 **B.Tech (Mathematics & Computing)** student at **Madhav Institute of Technology & Science (MITS), Gwalior**  
-💡 Passionate about **Artificial Intelligence, Data Analytics, and Computational Modeling**  
-🚀 Creator of [**HybridMedicalVision**](https://github.com/Adi3003/HybridMedicalVision) — an AI system for X-ray and CT scan anomaly detection  
+💡 Passionate about **Artificial Intelligence, Data Analytics, and Computational Modeling**   
 📬 Open for **AI/ML, Data Analytics, Consulting, Financial Analytics, and Research Internships (Summer 2026)**  
 
 ---
