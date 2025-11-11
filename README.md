@@ -67,7 +67,7 @@
 
 ---
 
-## 🩺 Featured Project
+## 📂 Featured Project
 [![HybridMedicalVision](https://img.shields.io/badge/Live%20Project-HybridMedicalVision-brightgreen?style=for-the-badge)](https://github.com/adi-huh/HybridMedicalVision)
 
 **HybridMedicalVision** — a hybrid AI system for detecting anomalies in chest CT scans and X-rays using **DenseNet121 + YOLOv8**.  
