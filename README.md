@@ -62,18 +62,23 @@
 
 ## 🔗 Contact & Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Rai-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Adi3003-black?style=for-the-badge&logo=github)](https://github.com/Adi3003)
+[![GitHub](https://img.shields.io/badge/GitHub-adi--huh-black?style=for-the-badge&logo=github)](https://github.com/adi-huh)
 [![Email](https://img.shields.io/badge/Email-raiaditya126@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiaditya126@gmail.com)
 
 ---
 
 ## 🩺 Featured Project
-[![HybridMedicalVision](https://img.shields.io/badge/Live%20Project-HybridMedicalVision-brightgreen?style=for-the-badge)](https://huggingface.co/spaces/Adi3003/medical-ct-xray-analyzer)
+[![HybridMedicalVision](https://img.shields.io/badge/Live%20Project-HybridMedicalVision-brightgreen?style=for-the-badge)](https://github.com/adi-huh/HybridMedicalVision)
 
 **HybridMedicalVision** — a hybrid AI system for detecting anomalies in chest CT scans and X-rays using **DenseNet121 + YOLOv8**.  
 > ⚙️ Built with PyTorch, Gradio, and OpenCV — focused on research and real-world AI healthcare applications.
 
 ---
 
-⭐ *“Bridging mathematics, analytics, and AI to solve impactful real-world and financial problems.”*
+## 📈 GitHub Stats
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi-huh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adi-huh&layout=compact&theme=tokyonight)
 
+---
+
+⭐ *“Bridging mathematics, analytics, and AI to solve impactful real-world and financial problems.”*
