@@ -1,7 +1,7 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Aditya+Rai;AI+%26+ML+Enthusiast;Data+Analyst;Mathematics+%26+Computing+Student;Open+for+AI%2C+Finance+%26+Research+Internships" alt="Typing SVG" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Aditya+Rai;AI+%26+ML+Enthusiast;Data+Analyst;Mathematics+%26+Computing+Student;Open+for+AI%2C+Finance+%26+Research+Internships" alt="Typing SVG" />
+</h3>
+
 # 👋 Hi, I'm Aditya Rai  
 
 🎓 **B.Tech (Mathematics & Computing)** student at **Madhav Institute of Technology & Science (MITS), Gwalior**  
