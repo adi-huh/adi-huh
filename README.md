@@ -61,7 +61,7 @@
 ---
 
 ## 🔗 Contact & Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Rai-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Rai-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aditya-rai-404a46229)
 [![GitHub](https://img.shields.io/badge/GitHub-adi--huh-black?style=for-the-badge&logo=github)](https://github.com/adi-huh)
 [![Email](https://img.shields.io/badge/Email-raiaditya126@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiaditya126@gmail.com)
 
